@@ -1,0 +1,6 @@
+../Src/main.c:45:5:main	8	static
+../Src/main.c:80:6:LEDS_init	8	static
+../Src/main.c:97:6:BUTTONS_init	8	static
+../Src/main.c:103:6:Clear	16	static
+../Src/main.c:125:6:Stop	16	static
+../Src/main.c:165:6:Ready	16	static

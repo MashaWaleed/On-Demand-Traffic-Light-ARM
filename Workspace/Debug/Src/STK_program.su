@@ -1,0 +1,11 @@
+../Src/STK_program.c:14:6:STK_Init	16	static
+../Src/STK_program.c:41:6:STK_Start	4	static
+../Src/STK_program.c:47:6:STK_Stop	4	static
+../Src/STK_program.c:53:6:STK_Reset	4	static
+../Src/STK_program.c:69:5:STK_GetRemainingCounts	4	static
+../Src/STK_program.c:75:5:STK_GetElapsedCounts	16	static
+../Src/STK_program.c:99:16:STK_SetBusyWait	24	static
+../Src/STK_program.c:130:16:STK_SetDelay_ms	24	static
+../Src/STK_program.c:177:16:STK_SetDelayAny_ms	24	static
+../Src/STK_program.c:245:16:STK_SetDelayAny_us	24	static
+../Src/STK_program.c:315:6:SysTick_Handler	8	static

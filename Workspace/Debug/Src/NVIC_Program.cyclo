@@ -1,0 +1,9 @@
+../Src/NVIC_Program.c:11:6:SCB_SetPriorityGrouping	1
+../Src/NVIC_Program.c:17:16:MCAL_NVIC_EnableIRQ	4
+../Src/NVIC_Program.c:45:16:MCAL_NVIC_DisableIRQ	4
+../Src/NVIC_Program.c:72:16:MCAL_NVIC_SetPendingIRQ	4
+../Src/NVIC_Program.c:99:16:MCAL_NVIC_ClearPendingIRQ	4
+../Src/NVIC_Program.c:122:16:MCAL_NVIC_GetPendingIRQ	8
+../Src/NVIC_Program.c:177:16:MCAL_NVIC_xSetPriority	3
+../Src/NVIC_Program.c:207:16:MCAL_NVIC_vSetPriority	4
+../Src/NVIC_Program.c:269:16:MCAL_NVIC_xGetPriority	2
